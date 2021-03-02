@@ -1,13 +1,11 @@
 # Use this space to code along with the readme
 def greeting
-   "Hello World!"
-  puts 
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+  puts "Hello World!"
+end  
+
+greeting
+greeting
+greeting
+greeting
+greeting
+greeting
